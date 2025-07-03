@@ -20,7 +20,7 @@ In this lab we're going to walk through how to create an Active Directory home L
 
 <p align="center">
 Creating Users With PowerShell: <br/>
-<img src="https://imgur.com/a/ietr2g1" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/iEm3LvC" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
