@@ -24,22 +24,27 @@ Creating Users With PowerShell: <br/>
 <br />
 <br />
 Select the disk:  <br/>
-<img src="https://github.com/devrsx/ActiveDirectoryLab/raw/main/images/Lab%20Overview%20Diagram.png" width="80%" alt="Lab Overview Diagram" />
+<img src="https://github.com/devrsx/ActiveDirectoryLab/raw/main/images/1.png" width="80%" alt="Step 1" />
 
 
+https://github.com/devrsx/ActiveDirectoryLab/blob/a603b8b6ee52e4bef6425c4f3281ade84cda0722/images/Downloading%20VirtualBox%20and%20Extension%20Pack.png
 
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Download VirtualBox and Extension Pack: <br/>
+<img src="https://github.com/devrsx/ActiveDirectoryLab/raw/main/images/2.png" width="80%" alt="Step 2" />
+
 <br />
 <br />
+<p align="center">
 Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/devrsx/ActiveDirectoryLab/raw/main/images/3.png" width="80%" alt="Step 3" />
+
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/devrsx/ActiveDirectoryLab/raw/main/images/4.png" width="80%" alt="Step 4" />
+
 <br />
 <br />
 Sanitization complete:  <br/>
@@ -49,6 +54,291 @@ Sanitization complete:  <br/>
 Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+<h1>Step 1</h1>
+<img src="https://github.com/devrsx/ActiveDirectoryLab/raw/main/images/1.png" width="80%" alt="Step 1" />
+<ul>
+  <li><strong>Action:</strong></li>
+  <li><strong>Settings:</strong></li>
+  <li><strong>Explanation:</strong></li>
+  <li><strong>Common Mistake:</strong></li>
+</ul>
+
+<h3>Step 2</h3>
+<img src="https://github.com/devrsx/ActiveDirectoryLab/raw/main/images/2.png" width="80%" alt="Step 2" />
+<ul>
+  <li><strong>Action:</strong></li>
+  <li><strong>Settings:</strong></li>
+  <li><strong>Explanation:</strong></li>
+  <li><strong>Common Mistake:</strong></li>
+</ul>
+
+<h3>Step 3</h3>
+<img src="https://github.com/devrsx/ActiveDirectoryLab/raw/main/images/3.png" width="80%" alt="Step 3" />
+<ul>
+  <li><strong>Action:</strong></li>
+  <li><strong>Settings:</strong></li>
+  <li><strong>Explanation:</strong></li>
+  <li><strong>Common Mistake:</strong></li>
+</ul>
+
+<h3>Step 4</h3>
+<img src="https://github.com/devrsx/ActiveDirectoryLab/raw/main/images/4.png" width="80%" alt="Step 4" />
+<ul>
+  <li><strong>Action:</strong></li>
+  <li><strong>Settings:</strong></li>
+  <li><strong>Explanation:</strong></li>
+  <li><strong>Common Mistake:</strong></li>
+</ul>
+
+<h3>Step 5</h3>
+<img src="https://github.com/devrsx/ActiveDirectoryLab/raw/main/images/5.png" width="80%" alt="Step 5" />
+<ul>
+  <li><strong>Action:</strong></li>
+  <li><strong>Settings:</strong></li>
+  <li><strong>Explanation:</strong></li>
+  <li><strong>Common Mistake:</strong></li>
+</ul>
+
+<h3>Step 6</h3>
+<img src="https://github.com/devrsx/ActiveDirectoryLab/raw/main/images/6.png" width="80%" alt="Step 6" />
+<ul>
+  <li><strong>Action:</strong></li>
+  <li><strong>Settings:</strong></li>
+  <li><strong>Explanation:</strong></li>
+  <li><strong>Common Mistake:</strong></li>
+</ul>
+
+<h3>Step 7</h3>
+<img src="https://github.com/devrsx/ActiveDirectoryLab/raw/main/images/7.png" width="80%" alt="Step 7" />
+<ul>
+  <li><strong>Action:</strong></li>
+  <li><strong>Settings:</strong></li>
+  <li><strong>Explanation:</strong></li>
+  <li><strong>Common Mistake:</strong></li>
+</ul>
+
+<h3>Step 8</h3>
+<img src="https://github.com/devrsx/ActiveDirectoryLab/raw/main/images/8.png" width="80%" alt="Step 8" />
+<ul>
+  <li><strong>Action:</strong></li>
+  <li><strong>Settings:</strong></li>
+  <li><strong>Explanation:</strong></li>
+  <li><strong>Common Mistake:</strong></li>
+</ul>
+
+<h3>Step 9</h3>
+<img src="https://github.com/devrsx/ActiveDirectoryLab/raw/main/images/9.png" width="80%" alt="Step 9" />
+<ul>
+  <li><strong>Action:</strong></li>
+  <li><strong>Settings:</strong></li>
+  <li><strong>Explanation:</strong></li>
+  <li><strong>Common Mistake:</strong></li>
+</ul>
+
+<h3>Step 10</h3>
+<img src="https://github.com/devrsx/ActiveDirectoryLab/raw/main/images/10.png" width="80%" alt="Step 10" />
+<ul>
+  <li><strong>Action:</strong></li>
+  <li><strong>Settings:</strong></li>
+  <li><strong>Explanation:</strong></li>
+  <li><strong>Common Mistake:</strong></li>
+</ul>
+<h3>Step 11</h3>
+<img src="https://github.com/devrsx/ActiveDirectoryLab/raw/main/images/11.png" width="80%" alt="Step 11" />
+<ul>
+  <li><strong>Action:</strong></li>
+  <li><strong>Settings:</strong></li>
+  <li><strong>Explanation:</strong></li>
+  <li><strong>Common Mistake:</strong></li>
+</ul>
+
+<h3>Step 12</h3>
+<img src="https://github.com/devrsx/ActiveDirectoryLab/raw/main/images/12.png" width="80%" alt="Step 12" />
+<ul>
+  <li><strong>Action:</strong></li>
+  <li><strong>Settings:</strong></li>
+  <li><strong>Explanation:</strong></li>
+  <li><strong>Common Mistake:</strong></li>
+</ul>
+
+<h3>Step 13</h3>
+<img src="https://github.com/devrsx/ActiveDirectoryLab/raw/main/images/13.png" width="80%" alt="Step 13" />
+<ul>
+  <li><strong>Action:</strong></li>
+  <li><strong>Settings:</strong></li>
+  <li><strong>Explanation:</strong></li>
+  <li><strong>Common Mistake:</strong></li>
+</ul>
+
+<h3>Step 14</h3>
+<img src="https://github.com/devrsx/ActiveDirectoryLab/raw/main/images/14.png" width="80%" alt="Step 14" />
+<ul>
+  <li><strong>Action:</strong></li>
+  <li><strong>Settings:</strong></li>
+  <li><strong>Explanation:</strong></li>
+  <li><strong>Common Mistake:</strong></li>
+</ul>
+
+<h3>Step 15</h3>
+<img src="https://github.com/devrsx/ActiveDirectoryLab/raw/main/images/15.png" width="80%" alt="Step 15" />
+<ul>
+  <li><strong>Action:</strong></li>
+  <li><strong>Settings:</strong></li>
+  <li><strong>Explanation:</strong></li>
+  <li><strong>Common Mistake:</strong></li>
+</ul>
+
+<h3>Step 16</h3>
+<img src="https://github.com/devrsx/ActiveDirectoryLab/raw/main/images/16.png" width="80%" alt="Step 16" />
+<ul>
+  <li><strong>Action:</strong></li>
+  <li><strong>Settings:</strong></li>
+  <li><strong>Explanation:</strong></li>
+  <li><strong>Common Mistake:</strong></li>
+</ul>
+
+<h3>
+
+<h3>Step 17</h3>
+<img src="https://github.com/devrsx/ActiveDirectoryLab/raw/main/images/17.png" width="80%" alt="Step 17" />
+<ul>
+  <li><strong>Action:</strong></li>
+  <li><strong>Settings:</strong></li>
+  <li><strong>Explanation:</strong></li>
+  <li><strong>Common Mistake:</strong></li>
+</ul>
+
+<h3>Step 18</h3>
+<img src="https://github.com/devrsx/ActiveDirectoryLab/raw/main/images/18.png" width="80%" alt="Step 18" />
+<ul>
+  <li><strong>Action:</strong></li>
+  <li><strong>Settings:</strong></li>
+  <li><strong>Explanation:</strong></li>
+  <li><strong>Common Mistake:</strong></li>
+</ul>
+
+<h3>Step 19</h3>
+<img src="https://github.com/devrsx/ActiveDirectoryLab/raw/main/images/19.png" width="80%" alt="Step 19" />
+<ul>
+  <li><strong>Action:</strong></li>
+  <li><strong>Settings:</strong></li>
+  <li><strong>Explanation:</strong></li>
+  <li><strong>Common Mistake:</strong></li>
+</ul>
+
+<h3>Step 20</h3>
+<img src="https://github.com/devrsx/ActiveDirectoryLab/raw/main/images/20.png" width="80%" alt="Step 20" />
+<ul>
+  <li><strong>Action:</str
+<h3>Step 21</h3>
+<img src="https://github.com/devrsx/ActiveDirectoryLab/raw/main/images/21.png" width="80%" alt="Step 21" />
+<ul>
+  <li><strong>Action:</strong></li>
+  <li><strong>Settings:</strong></li>
+  <li><strong>Explanation:</strong></li>
+  <li><strong>Common Mistake:</strong></li>
+</ul>
+
+<h3>Step 22</h3>
+<img src="https://github.com/devrsx/ActiveDirectoryLab/raw/main/images/22.png" width="80%" alt="Step 22" />
+<ul>
+  <li><strong>Action:</strong></li>
+  <li><strong>Settings:</strong></li>
+  <li><strong>Explanation:</strong></li>
+  <li><strong>Common Mistake:</strong></li>
+</ul>
+
+<h3>Step 23</h3>
+<img src="https://github.com/devrsx/ActiveDirectoryLab/raw/main/images/23.png" width="80%" alt="Step 23" />
+<ul>
+  <li><strong>Action:</strong></li>
+  <li><strong>Settings:</strong></li>
+  <li><strong>Explanation:</strong></li>
+  <li><strong>Common Mistake:</strong></li>
+</ul>
+
+<h3>Step 24</h3>
+<img src="https://github.com/devrsx/ActiveDirectoryLab/raw/main/images/24.png" width="80%" alt="Step 24" />
+<ul>
+  <li><strong>Action:</strong></li>
+  <li><strong>Settings:</strong></li>
+  <li><strong>Explanation:</strong></li>
+  <li><strong>Common Mistake:</strong></li>
+</ul>
+
+<h3>Step 25</h3>
+<img src="https://github.com/devrsx/ActiveDirectoryLab/raw/main/images/25.png" width="80%" alt="Step 25" />
+<ul>
+  <li><strong>Action:</strong></li>
+  <li><strong>Settings:</strong></li>
+  <li><strong>Explanation:</strong></li>
+  <li><strong>Common Mistake:</strong></li>
+</ul>
+
+<h3>Step 26</h3>
+<img src="https://github.com/devrsx/ActiveDirectoryLab/raw/main/images/26.png" width="80%" alt="Step 26" />
+<ul>
+  <li><strong>Action:</strong></li>
+  <li><strong>Settings:</strong></li>
+  <li><strong>Explanation:</strong></li>
+  <li><strong>Common Mistake:</strong></li>
+</ul>
+
+<h3>Step 27</h3>
+<img src="https://github.com/devrsx/ActiveDirectoryLab/raw/main/images/27.png" width="80%" alt="Step 27" />
+<ul>
+  <li><strong>Action:</strong></li>
+  <li><strong>Settings:</strong></li>
+  <li><strong>Explanation:</strong></li>
+  <li><strong>Common Mistake:</strong></li>
+</ul>
+
+<h3>Step 28</h3>
+<img src="https://github.com/devrsx/ActiveDirectoryLab/raw/main/images/28.png" width="80%" alt="Step 28" />
+<ul>
+  <li><strong>Action:</strong></li>
+  <li><strong>Settings:</strong></li>
+  <li><strong>Explanation:</strong></li>
+  <li><strong>Common Mistake:</strong></li>
+</ul>
+
+<h3>Step 29</h3>
+<img src="https://github.com/devrsx/ActiveDirectoryLab/raw/main/images/29.png" width="80%" alt="Step 29" />
+<ul>
+  <li><strong>Action:</strong></li>
+  <li><strong>Settings:</strong></li>
+  <li><strong>Explanation:</strong></li>
+  <li><strong>Common Mistake:</strong></li>
+</ul>
+
+<h3>Step 30</h3>
+<img src="https://github.com/devrsx/ActiveDirectoryLab/raw/main/images/30.png" width="80%" alt="Step 30" />
+<ul>
+  <li><strong>Action:</strong></li>
+  <li><strong>Settings:</strong></li>
+  <li><strong>Explanation:</strong></li>
+  <li><strong>Common Mistake:</strong></li>
+</ul>
+
+<h3>Step 31</h3>
+<img src="https://github.com/devrsx/ActiveDirectoryLab/raw/main/images/31.png" width="80%" alt="Step 31" />
+<ul>
+  <li><strong>Action:</strong></li>
+  <li><strong>Settings:</strong></li>
+  <li><strong>Explanation:</strong></li>
+  <li><strong>Common Mistake:</strong></li>
+</ul>
+
+<h3>Step 32</h3>
+<img src="https://github.com/devrsx/ActiveDirectoryLab/raw/main/images/32.png" width="80%" alt="Step 32" />
+<ul>
+  <li><strong>Action:</strong></li>
+  <li><strong>Settings:</strong></li>
+  <li><strong>Explanation:</strong></li>
+  <li><strong>Common Mistake:</strong></li>
+</ul>
+
 
 <!--
  ```diff
