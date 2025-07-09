@@ -24,7 +24,8 @@ Creating Users With PowerShell: <br/>
 <br />
 <br />
 Select the disk:  <br/>
-![Lab Overview Diagram](https://github.com/devrsx/ActiveDirectoryLab/raw/main/images/Lab%20Overview%20Diagram.png)
+<img src="https://github.com/devrsx/ActiveDirectoryLab/raw/main/images/Lab%20Overview%20Diagram.png" width="80%" alt="Lab Overview Diagram" />
+
 
 
 <br />
