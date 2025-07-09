@@ -26,6 +26,7 @@ Creating Users With PowerShell: <br/>
 Select the disk:  <br/>
 ![Lab Overview Diagram](https://github.com/devrsx/ActiveDirectoryLab/raw/main/images/Lab%20Overview%20Diagram.png)
 
+
 <br />
 <br />
 Enter the number of passes: <br/>
