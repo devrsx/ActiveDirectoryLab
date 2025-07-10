@@ -1,4 +1,4 @@
-# Active Directory Home Lab
+ # Active Directory Home Lab
 ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 🔽 **Download PowerShell Scripts for This Lab**:  
@@ -89,37 +89,40 @@ Step-by-step guide to build an Active Directory lab using Oracle VirtualBox. Per
 
 ### Step 3: VirtualBox Interface
 <p align="center">
-<em>Main VirtualBox console showing empty machine list</em><br/>
+<em>Microsoft official download pages for Windows 10 and Server 2019 ISOs</em><br/>
 <img src="images/3.png" width="80%" alt="VirtualBox Interface"/>
 </p>
 
 • **Action**  
-   ‣ Launch VirtualBox application  
-   ‣ Explore interface components  
+   ‣ Download Windows 10 ISO (Pro version recommended) 
+   ‣ Download Windows Server 2019 ISO
+   ‣ Save both in a known folder (e.g.,Desktop)
 • **Settings**  
-   ‣ Machine list (left panel)  
-   ‣ Toolbar buttons (top)  
+   ‣ Choose correct architecture (64-bit)  
+   ‣ Select ISO files, not other formats 
 • **Explanation**  
-   ‣ Primary VM management dashboard  
+   ‣ These ISOs will be installed on separate VMs to simulate a domain environment.
 • **Common Mistake**  
-   ‣ Not exploring File > Preferences  
+   ‣ Downloading Windows 10 Home edition, which cannot join a domain.
 
 ---
 
-### Step 4: Create New VM
+### Step 4: Create Domain Controller VM
 <p align="center">
 <em>'Create Virtual Machine' dialog with name/type fields</em><br/>
 <img src="images/4.png" width="80%" alt="Create VM"/>
 </p>
 
 • **Action**  
-   ‣ Click "New" button  
-   ‣ Enter basic configuration  
+   ‣ Create VM named "dc"  
+   ‣ Assign 2 GB RAM (adjustable based on your host) 
+   ‣ Create default VDI disk
 • **Settings**  
-   ‣ Name: "DC1"  
-   ‣ Type: Windows Server 2019  
+   ‣ OS Type: Other Windows (64-bit)  
+   ‣ RAM: 2048 MB
+   ‣ Disk: VDI, dynamically allocated, default size
 • **Explanation**  
-   ‣ Initial Domain Controller setup  
+   ‣ Domain controller needs enough RAM to run Server 2019   
 • **Common Mistake**  
    ‣ Selecting wrong OS version  
 
